@@ -1,0 +1,14 @@
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\bin\Debug\netcoreapp2.2\InicioProyecto.deps.json
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\bin\Debug\netcoreapp2.2\InicioProyecto.runtimeconfig.json
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\bin\Debug\netcoreapp2.2\InicioProyecto.runtimeconfig.dev.json
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\bin\Debug\netcoreapp2.2\InicioProyecto.dll
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\bin\Debug\netcoreapp2.2\InicioProyecto.pdb
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\obj\Debug\netcoreapp2.2\InicioProyecto.csprojAssemblyReference.cache
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\obj\Debug\netcoreapp2.2\InicioProyecto.csproj.CoreCompileInputs.cache
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\obj\Debug\netcoreapp2.2\InicioProyecto.RazorAssemblyInfo.cache
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\obj\Debug\netcoreapp2.2\InicioProyecto.RazorAssemblyInfo.cs
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\obj\Debug\netcoreapp2.2\InicioProyecto.AssemblyInfoInputs.cache
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\obj\Debug\netcoreapp2.2\InicioProyecto.AssemblyInfo.cs
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\obj\Debug\netcoreapp2.2\InicioProyecto.RazorTargetAssemblyInfo.cache
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\obj\Debug\netcoreapp2.2\InicioProyecto.dll
+C:\Users\byron\OneDrive\Escritorio\IPC2\FASE2\APLICACION\InicioProyecto\InicioProyecto\obj\Debug\netcoreapp2.2\InicioProyecto.pdb
